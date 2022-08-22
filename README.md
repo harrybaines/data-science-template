@@ -96,3 +96,5 @@ To auto-generate API document for your project, run:
 ```bash
 make docs
 ```
+
+Reference: [How to Structure a Data Science Project for Readability and Transparency](https://towardsdatascience.com/how-to-structure-a-data-science-project-for-readability-and-transparency-360c6716800) (repo [here](https://github.com/khuyentran1401/data-science-template))
